@@ -7,9 +7,6 @@
 - Firebase
 - Naver Maps API
 
-## 동작 화면
-<img src="![shot1](https://github.com/minsolkim/DangDangee/assets/94881886/c4a8ddc2-788e-41db-8c2a-e199a829131a)"  width="50" height="150">
-
 ## 아이디어 
 
 - 사용자의 위치를 반영하여 사용자 주변의 실종견들을 한 눈에 파악 할 수 있다.
